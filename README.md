@@ -1,0 +1,2 @@
+# BlogPage
+Blog page model
