@@ -1,2 +1,2 @@
-# BlogPage
-Blog page model
+# blog_page
+
